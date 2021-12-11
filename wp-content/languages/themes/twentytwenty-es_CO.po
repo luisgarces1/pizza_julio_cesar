@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Themes - Twenty Twenty package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-10-07 10:14:24+0000\n"
+"PO-Revision-Date: 2020-08-27 17:53:54+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,122 +19,6 @@ msgstr "Nuestro tema por defecto para 2020 está diseñado para aprovechar al m�
 #: inc/block-patterns.php:20
 msgid "Twenty Twenty"
 msgstr "Twenty Twenty"
-
-#: classes/class-twentytwenty-customize.php:130
-msgctxt "color"
-msgid "Custom"
-msgstr "Personalizado"
-
-#: classes/class-twentytwenty-customize.php:129
-msgctxt "color"
-msgid "Default"
-msgstr "Por defecto"
-
-#: inc/block-patterns.php:197
-msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political, and philosophical issues are intrinsic to our program. As visitor, you are invited to guided tours artist talks, lectures, film screenings, and other events with free admission."
-msgstr "Con siete plantas de sorprendente arquitectura, el UMoMA presenta exposiciones de arte contemporáneo internacional, a veces junto con retrospectivas históricas de arte. Los temas existenciales, políticos y filosóficos son intrínsecos a nuestro programa. Como visitante, estás invitado a visitas guiadas de charlas de artistas, conferencias, proyecciones de películas y otros eventos con entrada gratuita."
-
-#: inc/block-patterns.php:194
-msgid "The Premier Destination for Modern Art in Sweden"
-msgstr "El primer destino del arte moderno en Suecia."
-
-#: inc/block-patterns.php:187
-msgid "Introduction"
-msgstr "Introducción"
-
-#: inc/block-patterns.php:157 inc/block-patterns.php:171
-msgid "August 1 — December 1"
-msgstr "1 de Agosto — 1 de Diciembre"
-
-#: inc/block-patterns.php:151 inc/block-patterns.php:165
-msgid "Abstract Rectangles"
-msgstr "Rectángulos abstractos"
-
-#: inc/block-patterns.php:142
-msgid "Featured Content"
-msgstr "Contenido destacado"
-
-#: inc/block-patterns.php:128
-msgid "<em>Price</em><br>Included"
-msgstr "<em>Precio</em><br>Incluido"
-
-#: inc/block-patterns.php:123
-msgid "<em>Location</em><br>Exhibit Hall B"
-msgstr "<em>Ubicación</em><br>Sala de exposiciones B"
-
-#: inc/block-patterns.php:118
-msgid "<em>Dates</em><br>Aug 1 — Dec 1"
-msgstr "<em>Fechas</em><br>1 de Agosto — 1 de Diciembre"
-
-#: inc/block-patterns.php:108
-msgid "Event Details"
-msgstr "Detalles del evento"
-
-#: inc/block-patterns.php:93
-msgid "Shop Now"
-msgstr "Comprar ahora"
-
-#: inc/block-patterns.php:89
-msgid "An awe-inspiring collection of books, prints, and gifts from our exhibitions."
-msgstr "Una impresionante colección de libros, grabados y regalos de nuestras exposiciones."
-
-#: inc/block-patterns.php:86
-msgid "The Store"
-msgstr "La tienda"
-
-#: inc/block-patterns.php:74
-msgid "Award-winning exhibitions featuring internationally-renowned artists."
-msgstr "Exposiciones galardonadas presentando artistas de renombre internacional."
-
-#: inc/block-patterns.php:71
-msgid "The Museum"
-msgstr "El museo"
-
-#: inc/block-patterns.php:61
-msgid "Double Call to Action"
-msgstr "Llamada a la acción doble"
-
-#: inc/block-patterns.php:48
-msgid "Become a Member"
-msgstr "Conviértete en miembro"
-
-#: inc/block-patterns.php:42
-msgid "Support the Museum and Get Exclusive Offers"
-msgstr "Apoya al museo y obtén ofertas exclusivas"
-
-#: inc/block-patterns.php:33
-msgid "Call to Action"
-msgstr "Llamada a la acción"
-
-#: template-parts/modal-menu.php:73
-msgctxt "menu"
-msgid "Mobile"
-msgstr "Móvil"
-
-#: template-parts/modal-menu.php:48
-msgctxt "menu"
-msgid "Expanded"
-msgstr "Ampliado"
-
-#: header.php:88
-msgctxt "menu"
-msgid "Horizontal"
-msgstr "Horizontal"
-
-#: header.php:53 header.php:157
-msgctxt "toggle text"
-msgid "Search"
-msgstr "Buscar"
-
-#: functions.php:526
-msgctxt "color"
-msgid "Secondary"
-msgstr "Secundario"
-
-#: functions.php:521
-msgctxt "color"
-msgid "Primary"
-msgstr "Principal"
 
 #: index.php:51
 msgid "Nothing Found"
@@ -174,10 +58,6 @@ msgstr "¡Hazte miembro y obtén ofertas exclusivas!"
 msgid "The exhibitions are produced by UMoMA in collaboration with artists and museums around the world and they often attract international attention. UMoMA has received a Special Commendation from the European Museum of the Year, and was among the top candidates for the Swedish Museum of the Year Award as well as for the Council of Europe Museum Prize."
 msgstr "Las exposiciones son realizadas por UMoMA en colaboración con artistas y museos de todo el mundo y, a menudo, atraen la atención internacional. UMoMA ha recibido una mención especial del Museo Europeo del Año y ha sido uno de los principales candidatos al Premio Sueco al Museo del Año, así como al Premio del Consejo de Europa."
 
-#: inc/starter-content.php:134
-msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission"
-msgstr "Con siete pisos de arquitectura impresionante, UMoMA muestra exposiciones de arte contemporáneo internacional, a veces junto con retrospectivas históricas del arte. Los problemas existenciales, políticos y filosóficos son intrínsecos a nuestro programa. Como visitante, estás invitado a visitas guiadas, charlas de artistas, conferencias, proyecciones de películas y otros eventos con entrada gratuita"
-
 #: inc/starter-content.php:130
 msgid "&#8220;Cyborgs, as the philosopher Donna Haraway established, are not reverent. They do not remember the cosmos.&#8221;"
 msgstr "«Los cíborgs, como estableció la filósofa Donna Haraway, no son reverentes. No recuerdan el cosmos»."
@@ -215,7 +95,11 @@ msgstr "Obras y días"
 
 #: inc/starter-content.php:56
 msgid "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
-msgstr "El principal destino para el arte moderno en el norte de Suecia. Abierto de 10:00 a 18:00 h. todos los días durante los meses de verano."
+msgstr "El principal destino para el arte moderno en el norte de Suecia. Abierto de 10 AM a 6 PM todos los días durante los meses de verano."
+
+#: inc/starter-content.php:134
+msgid "With seven floors of striking architecture, UMoMA shows exhibitions of international contemporary art, sometimes along with art historical retrospectives. Existential, political and philosophical issues are intrinsic to our programme. As visitor you are invited to guided tours artist talks, lectures, film screenings and other events with free admission"
+msgstr "Con siete pisos de arquitectura impresionante, UMoMA muestra exposiciones de arte contemporáneo internacional, a veces junto con retrospectivas históricas del arte. Los problemas existenciales, políticos y filosóficos son intrínsecos a nuestro programa. Como visitante, estás invitado a visitas guiadas, charlas de artistas, conferencias, proyecciones de películas y otros eventos con entrada gratuita"
 
 #: inc/starter-content.php:48
 msgid "The New UMoMA Opens its Doors"
@@ -265,8 +149,8 @@ msgstr "buscar de nuevo"
 #: index.php:39
 msgid "We found %s result for your search."
 msgid_plural "We found %s results for your search."
-msgstr[0] "Hemos encontrado %s resultado para tu búsqueda."
-msgstr[1] "Hemos encontrado %s resultados para tu búsqueda."
+msgstr[0] "Hemos encontrado %s resultado que coincide con tu búsqueda."
+msgstr[1] "Hemos encontrado %s resultados que coinciden con tu búsqueda."
 
 #. translators: %s: HTML character for up arrow.
 #: footer.php:49
@@ -288,6 +172,14 @@ msgstr "Y"
 #: 404.php:24
 msgid "404 not found"
 msgstr "404 - No encontrado"
+
+#: template-parts/content-cover.php:138 template-parts/content.php:48
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: inc/starter-content.php:197
+msgid "Social Links Menu"
+msgstr "Menú de enlaces sociales"
 
 #. Template Name of the theme
 msgid "Full Width Template"
@@ -338,16 +230,12 @@ msgid "By %s"
 msgstr "Por %s"
 
 #: template-parts/content-cover.php:138 template-parts/content.php:48
-msgid "Pages:"
-msgstr "Páginas:"
-
-#: template-parts/content-cover.php:138 template-parts/content.php:48
 msgid "Page"
 msgstr "Página"
 
 #: template-parts/content-cover.php:88
 msgid "Scroll Down"
-msgstr "Scroll hacia abajo"
+msgstr "Scroll abajo"
 
 #: searchform.php:31
 msgctxt "submit button"
@@ -387,15 +275,11 @@ msgstr "Categorías"
 
 #: inc/template-tags.php:392
 msgid "Post date"
-msgstr "Fecha de la entrada"
+msgstr "Fecha de publicación"
 
 #: inc/template-tags.php:368
 msgid "Post author"
 msgstr "Autor de la entrada"
-
-#: inc/starter-content.php:197
-msgid "Social Links Menu"
-msgstr "Menú de enlaces sociales"
 
 #: inc/starter-content.php:177 inc/starter-content.php:187
 msgid "Primary"
@@ -451,11 +335,11 @@ msgstr "Pequeña"
 
 #: functions.php:544
 msgid "Background Color"
-msgstr "Color del fondo"
+msgstr "Color de fondo"
 
 #: functions.php:531
 msgid "Subtle Background"
-msgstr "Fondo sutil"
+msgstr "Fondo del subtítulo"
 
 #: functions.php:516
 msgid "Accent Color"
@@ -503,7 +387,7 @@ msgstr "Menú horizontal del escritorio"
 
 #: footer.php:33
 msgid "Powered by WordPress"
-msgstr "Funciona con WordPress"
+msgstr "Funciona gracias a WordPress"
 
 #: comments.php:127
 msgid "Comments are closed."
@@ -519,7 +403,7 @@ msgstr "Comentarios anteriores"
 
 #: comments.php:74
 msgid "Newer Comments"
-msgstr "Comentarios siguientes"
+msgstr "Comentarios recientes"
 
 #. translators: 1: Number of comments, 2: Post title.
 #: comments.php:41
@@ -633,7 +517,7 @@ msgstr "https://es-co.wordpress.org/"
 
 #. Author of the theme
 msgid "the WordPress team"
-msgstr "El equipo de WordPress"
+msgstr "el equipo WordPress"
 
 #. Theme URI of the theme
 msgid "https://wordpress.org/themes/twentytwenty/"
